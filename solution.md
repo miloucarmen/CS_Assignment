@@ -7,4 +7,4 @@
 
 ### Plot
 ##### consumption of beer & rising number of students
-![alt text](https://github.com/miloucarmen/CS_Assignment/blob/master/download.png)
+![alt text](https://github.com/miloucarmen/CS_Assignment/blob/master/Plot.png)
